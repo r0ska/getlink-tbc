@@ -13,7 +13,7 @@ Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone 
    ➡️ GetLinkTBC.lua
    ➡️ GetLinkTBC.toc
 
-Folder (with files) need to be extracted to "..\_classic_\Interface\AddOns\":
+Folder (with the files) needs to be extracted to "..\_classic_\Interface\AddOns\":
 -> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
 -> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
