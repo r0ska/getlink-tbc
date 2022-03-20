@@ -25,6 +25,10 @@
 
 **Examples:**
 ```
+/gl Ace of Storms
+[20:12:25] [Ace of Storms]
+[20:12:25] End of results.
+
 /gl of Storms
 [20:12:21] [Five of Storms]
 [20:12:21] [Six of Storms]
@@ -35,10 +39,6 @@
 [20:12:21] [Four of Storms]
 [20:12:21] [Seven of Storms]
 [20:12:21] End of results.
-
-/gl Ace of Storms
-[20:12:25] [Ace of Storms]
-[20:12:25] End of results.
 ```
 
 **Troubleshooting:**
