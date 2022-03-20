@@ -46,7 +46,7 @@
 Missing Items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev build' ➡️ '/reload'
 
 /gldev purge - Purges current saved variables
-/gldev build - Force-updates the database
+/gldev build - Force-updates the item database
 ```
 
 **Other versions:**
