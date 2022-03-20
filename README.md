@@ -13,7 +13,7 @@
   📜 GetLinkTBC.lua
   📜 GetLinkTBC.toc
 
-2. Extract folder (with files) to "..\_classic_\Interface\AddOns\":
+2. Extract included folder (with the files) to "..\_classic_\Interface\AddOns\":
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
