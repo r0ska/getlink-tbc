@@ -2,6 +2,8 @@
 
 Fork of GetLink that works with The Burning Crusade expansion. Search for items with full or partial name, returns item link(s).  
 
+![Example](https://i.imgur.com/ydjzZNk.png)
+
 **Usage:**
 ```
 /gl item name
