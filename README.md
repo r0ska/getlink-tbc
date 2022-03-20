@@ -1,5 +1,6 @@
-**Get Link - TBC** 
-is Get Link fork that works with TBC. Search for items with full or partial name, returns item link(s).
+## Get Link - TBC
+
+Fork of GetLink that works with The Burning Crusade expansion. Search for items with full or partial name, returns item link(s).  
 
 **Usage:**
 ```
