@@ -9,8 +9,8 @@ Fork of GetLink that works with The Burning Crusade expansion. Search for items 
 Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. 
 
 Folder (and files) need to be extracted to \_classic_\Interface\AddOns\:
--> Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
--> Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
+-> \_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
+-> \_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
 
 **Usage:**
