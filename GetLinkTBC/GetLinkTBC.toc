@@ -1,0 +1,6 @@
+## Interface: 20503
+## Title: Get Link TBC
+## Version: 5
+## SavedVariables: GLTable, GLOptions
+
+GetLinkTBC.lua
