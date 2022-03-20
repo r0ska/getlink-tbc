@@ -15,7 +15,7 @@ Zip should include one folder and two files:
   📜 GetLinkTBC.lua
   📜 GetLinkTBC.toc
 
-2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\":
+2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
 Just like you would install any other addon
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
