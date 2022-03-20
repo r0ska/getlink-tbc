@@ -8,11 +8,11 @@
 ## How To    
 **Installation:**  
 ```
-Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. 
+Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo.
 
-Folder (and files) need to be extracted to \_classic_\Interface\AddOns\:
--> \_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
--> \_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
+Folder (and files) need to be extracted to "..\_classic_\Interface\AddOns\":
+-> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
+-> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
 
 **Usage:**
