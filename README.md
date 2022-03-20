@@ -48,7 +48,7 @@ Just like you would install any other addon:
 
 **Troubleshooting:**
 ```
-Missing Items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev build' ➡️ '/reload'
+Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev build' ➡️ '/reload'
 
 /gldev purge - Purges current saved variables
 /gldev build - Force-updates the item database
