@@ -1,6 +1,7 @@
 ## Addon: Get Link - TBC
 
-- Fork of Get Link addon, works with The Burning Crusade expansion.
+- Fork of Get Link addon for World of Warcraft. 
+- Works with current version (2.5.3) of The Burning Crusade expansion
 - Search for items with full or partial name, returns item link(s).
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
