@@ -8,12 +8,12 @@
 ## How To
 **Installation:**
 ```
-Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. Zip includes one folder and two files:
+1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/). Zip should include one folder and two files:
 📁 GetLinkTBC/
   📜 GetLinkTBC.lua
   📜 GetLinkTBC.toc
 
-Folder (with the files) needs to be extracted to "..\_classic_\Interface\AddOns\":
+2. Extract folder (with files) to "..\_classic_\Interface\AddOns\":
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
