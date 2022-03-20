@@ -4,6 +4,15 @@ Fork of GetLink that works with The Burning Crusade expansion. Search for items 
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
 
+**Install:**  
+```
+Get ZIP from Releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. 
+
+Folder (and files) need to be extracted to Interface\AddOns\:
+-> Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
+-> Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
+```
+
 **Usage:**
 ```
 /gl item name
