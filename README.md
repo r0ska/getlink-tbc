@@ -20,21 +20,25 @@
 
 **Usage:**
 ```
-/gl item name
+/gl item
 ```
 
-**Example:**
+**Examples:**
 ```
 /gl of Storms
-[20:17:21] [Five of Storms]
-[20:17:21] [Six of Storms]
-[20:17:21] [Three of Storms]
-[20:17:21] [Eight of Storms]
-[20:17:21] [Two of Storms]
-[20:17:21] [Ace of Storms]
-[20:17:21] [Four of Storms]
-[20:17:21] [Seven of Storms]
-[20:17:21] End of results.
+[20:12:21] [Five of Storms]
+[20:12:21] [Six of Storms]
+[20:12:21] [Three of Storms]
+[20:12:21] [Eight of Storms]
+[20:12:21] [Two of Storms]
+[20:12:21] [Ace of Storms]
+[20:12:21] [Four of Storms]
+[20:12:21] [Seven of Storms]
+[20:12:21] End of results.
+
+/gl Ace of Storms
+[20:12:25] [Ace of Storms]
+[20:12:25] End of results.
 ```
 
 **Troubleshooting:**
