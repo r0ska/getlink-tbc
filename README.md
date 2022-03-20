@@ -1,12 +1,12 @@
 ## Addon: Get Link - TBC
 
-- Fork of Get Link addon, works with The Burning Crusade expansion. 
-- Search for items with full or partial name, returns item link(s).  
+- Fork of Get Link addon, works with The Burning Crusade expansion.
+- Search for items with full or partial name, returns item link(s).
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
-## How To    
-**Installation:**  
+## How To
+**Installation:**
 ```
 Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. Zip includes one folder and two files:
 📁 GetLinkTBC/
@@ -14,7 +14,7 @@ Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone 
   📜 GetLinkTBC.toc
 
 Folder (with the files) needs to be extracted to "..\_classic_\Interface\AddOns\":
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
 
