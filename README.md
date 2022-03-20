@@ -8,7 +8,9 @@
 ## How To
 **Installation:**
 ```
-1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/). Zip should include one folder and two files:
+1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/). 
+
+Zip should include one folder and two files:
 📁 GetLinkTBC/
   📜 GetLinkTBC.lua
   📜 GetLinkTBC.toc
