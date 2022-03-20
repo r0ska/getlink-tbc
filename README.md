@@ -9,13 +9,13 @@
 **Installation:**  
 ```
 Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. Zip includes one folder and two files:
-⬇️ GetLinkTBC/
-   ➡️ GetLinkTBC.lua
-   ➡️ GetLinkTBC.toc
+📁 GetLinkTBC/
+   📜 GetLinkTBC.lua
+   📜 GetLinkTBC.toc
 
 Folder (with the files) needs to be extracted to "..\_classic_\Interface\AddOns\":
--> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
--> ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua 
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
 
 **Usage:**
