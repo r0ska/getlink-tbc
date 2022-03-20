@@ -1,9 +1,11 @@
 ## Get Link - TBC
 
-Fork of GetLink that works with The Burning Crusade expansion. Search for items with full or partial name, returns item link(s).  
+- Fork of Get Link, works with The Burning Crusade expansion. 
+- Search for items with full or partial name, returns item link(s).  
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
-
+  
+## How To    
 **Installation:**  
 ```
 Get ZIP from releases (https://github.com/r0ska/getlink-tbc/releases/) or clone repo. 
