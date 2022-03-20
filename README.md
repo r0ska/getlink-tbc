@@ -25,13 +25,16 @@
 
 **Example:**
 ```
-/gl furies
-[19:23:54] [Eight of Furies]
-[19:23:54] [Four of Furies]
-[19:23:54] [Six of Furies]
-[19:23:54] [Seven of Furies]
-..
-..
+/gl of Storms
+[20:17:21] [Five of Storms]
+[20:17:21] [Six of Storms]
+[20:17:21] [Three of Storms]
+[20:17:21] [Eight of Storms]
+[20:17:21] [Two of Storms]
+[20:17:21] [Ace of Storms]
+[20:17:21] [Four of Storms]
+[20:17:21] [Seven of Storms]
+[20:17:21] End of results.
 ```
 
 **Troubleshooting:**
