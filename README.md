@@ -6,23 +6,6 @@
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
 ## How To
-**Installation:**
-```
-1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
-
-Zip should include one folder and two files:
-📁 GetLinkTBC/
-  📜 GetLinkTBC.lua
-  📜 GetLinkTBC.toc
-
-2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
-
-Just like you would install any other addon:
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
-```
-
 **Usage:**
 ```
 /gl item
@@ -44,6 +27,23 @@ Just like you would install any other addon:
 [20:12:21] [Four of Storms]
 [20:12:21] [Seven of Storms]
 [20:12:21] End of results.
+```
+
+**Installation:**
+```
+1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
+
+Zip should include one folder and two files:
+📁 GetLinkTBC/
+  📜 GetLinkTBC.lua
+  📜 GetLinkTBC.toc
+
+2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
+
+Just like you would install any other addon:
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
+➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
 ```
 
 **Troubleshooting:**
