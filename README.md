@@ -33,14 +33,13 @@
 ```
 1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
 
-Zip should include one folder and two files:
+Zip should contain one folder and two files:
 📁 GetLinkWOTLK/
   📜 GetLinkWOTLK.lua
   📜 GetLinkWOTLK.toc
 
 2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
-Just like you would install any other addon:
 ➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\
 ➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.lua
 ➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.toc
