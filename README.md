@@ -1,7 +1,7 @@
-## Addon: Get Link - TBC
+## Addon: Get Link - WOTLK
 #### Search for items with full or partial name, returns item link(s).
 - Fork of "[Get Link Classic](https://github.com/vxjt/getlink)" addon
-- Updated for The Burning Crusade Expansion
+- Updated for Wrath of the Lich King Expansion
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
@@ -34,20 +34,22 @@
 1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
 
 Zip should include one folder and two files:
-📁 GetLinkTBC/
-  📜 GetLinkTBC.lua
-  📜 GetLinkTBC.toc
+📁 GetLinkWOTLK/
+  📜 GetLinkWOTLK.lua
+  📜 GetLinkWOTLK.toc
 
 2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
 Just like you would install any other addon:
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
-➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
+➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\
+➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.lua
+➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.toc
 ```
 
 **Troubleshooting:**
 ```
+Make sure to disable other versions of Get Link!
+
 Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev build' ➡️ '/reload'
 
 /gldev purge - Purges current saved variables
@@ -56,6 +58,7 @@ Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev bu
 
 **Other versions:**
 ```
+Get Link TBC: https://github.com/r0ska/getlink-tbc
 Get Link Classic: https://www.curseforge.com/wow/addons/get-link-classic
 Get Link Retail: https://www.curseforge.com/wow/addons/getlink
 ```
