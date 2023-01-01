@@ -57,7 +57,7 @@ Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev bu
 
 **Other versions:**
 ```
-Get Link TBC: https://github.com/r0ska/getlink-tbc
+Get Link TBC: https://github.com/r0ska/getlink-tbc/tree/tbc
 Get Link Classic: https://www.curseforge.com/wow/addons/get-link-classic
 Get Link Retail: https://www.curseforge.com/wow/addons/getlink
 ```
