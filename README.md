@@ -1,7 +1,7 @@
 ## Addon: Get Link - WOTLK
 #### Search for items with full or partial name, returns item link(s).
 - Fork of "[Get Link Classic](https://github.com/vxjt/getlink)" addon
-- Updated for Wrath of the Lich King Expansion
+- Updated for Wrath of the Lich King expansion
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
