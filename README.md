@@ -56,6 +56,7 @@ Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev bu
 
 **Other versions:**
 ```
+Get Link WOTLK: https://github.com/r0ska/getlink-tbc/tree/wotlk
 Get Link Classic: https://www.curseforge.com/wow/addons/get-link-classic
 Get Link Retail: https://www.curseforge.com/wow/addons/getlink
 ```
