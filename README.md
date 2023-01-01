@@ -2,6 +2,7 @@
 #### Search for items with full or partial name, returns item link(s).
 - Fork of "[Get Link Classic](https://github.com/vxjt/getlink)" addon
 - Updated for The Burning Crusade Expansion
+- WOTLK version: [Get Link WOTLK](https://github.com/r0ska/getlink-tbc/tree/wotlk)
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
