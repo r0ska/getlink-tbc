@@ -41,8 +41,8 @@ Zip should contain one folder and two files:
 2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
 ➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\
-➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.lua
-➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkTBC.toc
+➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkWOTLK.lua
+➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkWOTLK.toc
 ```
 
 **Troubleshooting:**
