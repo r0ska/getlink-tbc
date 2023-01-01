@@ -47,6 +47,8 @@ Zip should contain one folder and two files:
 
 **Troubleshooting:**
 ```
+Disable other versions of Get Link!
+
 Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev build' ➡️ '/reload'
 
 /gldev purge - Purges current saved variables
