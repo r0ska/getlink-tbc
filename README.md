@@ -1,4 +1,4 @@
-## Addon: Get Link - TBC/WOTLK
+## Addon: Get Link - TBC
 #### Search for items with full or partial name, returns item link(s).
 - Fork of "[Get Link Classic](https://github.com/vxjt/getlink)" addon
 - Updated for The Burning Crusade Expansion
