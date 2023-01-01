@@ -31,7 +31,7 @@
 
 **Installation:**
 ```
-1. Download Zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
+1. Download GetLinkTBC.zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
 
 Zip should contain one folder and two files:
 📁 GetLinkTBC/
