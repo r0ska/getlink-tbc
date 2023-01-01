@@ -40,7 +40,6 @@ Zip should include one folder and two files:
 
 2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
-Just like you would install any other addon:
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.lua
 ➡️ ..\_classic_\Interface\AddOns\GetLinkTBC\GetLinkTBC.toc
