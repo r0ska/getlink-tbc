@@ -1,7 +1,7 @@
 local SearchFrame = CreateFrame("Frame")
-local nTopID = 199999 --Update this for new item IDs, https://www.wowhead.com/wotlk/items?filter=151;2;199914 Setting this to an obscenely large number should future proof the addon provided you run '/gldev build' each update, unless Blizzard changes the way item info is retrieved.
+local nTopID = 209300 --Update this for new item IDs, https://www.wowhead.com/wotlk/items?filter=151;2;199914 Setting this to an obscenely large number should future proof the addon provided you run '/gldev build' each update, unless Blizzard changes the way item info is retrieved.
 local nStepSize = 50 --Database build speed.  This can be set to 500+ on beefier computers.
-local nVersion = 6 --Used to check if the addon needs to rebuild the database because of a new update.
+local nVersion = 7 --Used to check if the addon needs to rebuild the database because of a new update.
 local bBuilding = false 
 local nCurrentID = 0
 local tc = {
