@@ -98,7 +98,7 @@ end
 --[[SearchFrame registers this function to activate whenever the addon is loaded and whenever item data is received.  If the addon deteects it's running a different version than the database it will purge and make a new one.]]
 
 function EventHandler(self, event, arg1, arg2)
-	if event == "ADDON_LOADED" and arg1 == "GetLinkTBC" then
+	if event == "ADDON_LOADED" and arg1 == "GetLinkWOTLK" then
 		if not GLOptions or GLOptions["Version"] ~= nVersion then 
 			GLTable = {}
 			GLOptions = {}
