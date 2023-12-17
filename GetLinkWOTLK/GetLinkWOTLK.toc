@@ -1,6 +1,0 @@
-## Interface: 30402
-## Title: Get Link WOTLK
-## Version: 7
-## SavedVariables: GLTable, GLOptions
-
-GetLinkWOTLK.lua
