@@ -1,7 +1,7 @@
-## Addon: Get Link - WOTLK
+## Addon: Get Link - Classic Era
 #### Search for items with full or partial name, returns item link(s).
 - Fork of "[Get Link Classic](https://github.com/vxjt/getlink)" addon
-- Updated for Wrath of the Lich King expansion
+- Updated for Season of Discovery
 
 ![Example](https://i.imgur.com/ydjzZNk.png)
   
@@ -31,18 +31,18 @@
 
 **Installation:**
 ```
-1. Download GetLinkWOTLK.zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
+1. Download GetLinkClassic.zip from releases page (https://github.com/r0ska/getlink-tbc/releases/)
 
 Zip should contain one folder and two files:
-📁 GetLinkWOTLK/
-  📜 GetLinkWOTLK.lua
-  📜 GetLinkWOTLK.toc
+📁 GetLinkClassic/
+  📜 GetLinkClassic.lua
+  📜 GetLinkClassic.toc
 
 2. Extract folder (with the files) to "..\_classic_\Interface\AddOns\"
 
-➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\
-➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkWOTLK.lua
-➡️ ..\_classic_\Interface\AddOns\GetLinkWOTLK\GetLinkWOTLK.toc
+➡️ ..\_classic_\Interface\AddOns\GetLinkClassic\
+➡️ ..\_classic_\Interface\AddOns\GetLinkClassic\GetLinkClassic.lua
+➡️ ..\_classic_\Interface\AddOns\GetLinkClassic\GetLinkClassic.toc
 ```
 
 **Troubleshooting:**
@@ -57,6 +57,7 @@ Missing items? Not working? Errors? Try running '/gldev purge' ➡️ '/gldev bu
 
 **Other versions:**
 ```
+Get Link WOTLK: https://github.com/r0ska/getlink-tbc/tree/wotlk
 Get Link TBC: https://github.com/r0ska/getlink-tbc/tree/tbc
 Get Link Classic: https://www.curseforge.com/wow/addons/get-link-classic
 Get Link Retail: https://www.curseforge.com/wow/addons/getlink
