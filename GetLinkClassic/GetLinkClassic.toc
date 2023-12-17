@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: Get Link Classic
+## Version: 4
+## Author: https://www.curseforge.com/members/vxjt/projects / Magoo#11812
+## SavedVariables: GLTable, GLOptions
+
+GetLinkClassic.lua
